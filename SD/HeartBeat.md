@@ -1,0 +1,3 @@
+- MongoDB (Replica Set)
+- Banco de dados distribuídos
+- Quando o árbitro cai, uma das réplicas é eleita como novo árbitro

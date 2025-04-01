@@ -1,0 +1,1 @@
+- Malha: todos os dispositivos estão interconectados
