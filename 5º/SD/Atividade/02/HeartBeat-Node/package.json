@@ -1,0 +1,20 @@
+{
+  "name": "my-ts-project",
+  "version": "1.0.0",
+  "description": "A project to compile TypeScript files easily",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "node dist/index.js",
+    "run": "ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "@types/node": "^22.13.10"
+  }
+}
